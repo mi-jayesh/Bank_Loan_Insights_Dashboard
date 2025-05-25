@@ -1,4 +1,4 @@
-# Bank_Loan_Analysis_Report
+# Loan Performance and Risk Analysis Dashboard 
 This project focuses on analyzing bank loan data to gain insights into lending performance, loan status trends, and borrower characteristics. 
 
 Business Problem :-
